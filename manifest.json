@@ -1,0 +1,64 @@
+{
+  "version": "2026.07.28",
+  "last_update": "2026年5月市场数据 + WAIC 2026 + eSIM产业新进展",
+  "description": "终端老兵专家行业数据仓库（月度更新·去BCI化）",
+  "shared_by": ["terminal-veteran-expert", "808zdlb"],
+  "files": [
+    {
+      "file": "data/market-facts.md",
+      "hash": "e646c980b0085016",
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/terminal-veteran-data/main/data/market-facts.md",
+      "description": "数据与事实库精选（65条公开数据）",
+      "update_frequency": "月度"
+    },
+    {
+      "file": "data/monthly-series.md",
+      "hash": "44376ed8030b95aa",
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/terminal-veteran-data/main/data/monthly-series.md",
+      "description": "2022-2026年48+月度数据序列",
+      "update_frequency": "月度"
+    },
+    {
+      "file": "data/five-year-baseline.md",
+      "hash": "a2d95c3cb2566117",
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/terminal-veteran-data/main/data/five-year-baseline.md",
+      "description": "五年趋势基线（2022-2026）",
+      "update_frequency": "季度"
+    },
+    {
+      "file": "data/latest-update.md",
+      "hash": "0c9edab1a6477349",
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/terminal-veteran-data/main/data/latest-update.md",
+      "description": "最新月度数据快照",
+      "update_frequency": "月度"
+    },
+    {
+      "file": "data/provincial-analysis.md",
+      "hash": "7a1f2f3d42f5e66e",
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/terminal-veteran-data/main/data/provincial-analysis.md",
+      "description": "分省分析报告",
+      "update_frequency": "月度"
+    },
+    {
+      "file": "theory/quotes.md",
+      "hash": "4be430872b94ca64",
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/terminal-veteran-data/main/theory/quotes.md",
+      "description": "陈丰伟金句弹药库（48条精选）",
+      "update_frequency": "季度"
+    },
+    {
+      "file": "theory/judgments-timeline.md",
+      "hash": "3c600e47ec99f0ff",
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/terminal-veteran-data/main/theory/judgments-timeline.md",
+      "description": "行业判断时间线（11条核心判断）",
+      "update_frequency": "季度"
+    },
+    {
+      "file": "theory/speech-frameworks.md",
+      "hash": "1b4fb71c0e104c8d",
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/terminal-veteran-data/main/theory/speech-frameworks.md",
+      "description": "MWC26+WAIC26演讲核心框架",
+      "update_frequency": "按需"
+    }
+  ]
+}
