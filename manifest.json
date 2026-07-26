@@ -9,7 +9,7 @@
   "files": [
     {
       "file": "data/market-facts.md",
-      "hash": "f8132eb09816c8a4",
+      "hash": "06bd2bc2c99b2791cda5bd173593c22dc7f0807e0a6b572043e65c1753a68bc1",
       "url": "https://raw.githubusercontent.com/chenfengwei9166/terminal-veteran-data/main/data/market-facts.md",
       "description": "数据与事实库精选（65条公开数据）",
       "update_frequency": "月度"
@@ -44,7 +44,7 @@
     },
     {
       "file": "theory/quotes.md",
-      "hash": "4be430872b94ca64",
+      "hash": "36337db939664fa2e97ecb847c3aa051034d4fb11c9a845744aea4e6505feaa0",
       "url": "https://raw.githubusercontent.com/chenfengwei9166/terminal-veteran-data/main/theory/quotes.md",
       "description": "陈丰伟金句弹药库（48条精选）",
       "update_frequency": "季度"
@@ -63,5 +63,6 @@
       "description": "MWC26+WAIC26演讲核心框架",
       "update_frequency": "按需"
     }
-  ]
+  ],
+  "updated_at": "2026-07-26T12:00:00Z"
 }
