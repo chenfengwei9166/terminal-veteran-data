@@ -1,6 +1,6 @@
 {
-  "version": "2026.07.28",
-  "last_update": "2026年5月市场数据 + WAIC 2026 + eSIM产业新进展",
+  "version": "2026.09.12",
+  "last_update": "2026年9月市场数据",
   "description": "终端老兵专家行业数据仓库（月度更新·脱敏处理）",
   "shared_by": [
     "terminal-veteran-expert",
@@ -9,9 +9,9 @@
   "files": [
     {
       "file": "data/market-facts.md",
-      "hash": "06bd2bc2c99b2791cda5bd173593c22dc7f0807e0a6b572043e65c1753a68bc1",
+      "hash": "b26097775ef4310e",
       "url": "https://raw.githubusercontent.com/chenfengwei9166/terminal-veteran-data/main/data/market-facts.md",
-      "description": "数据与事实库精选（65条公开数据）",
+      "description": "数据与事实库精选（公开数据）",
       "update_frequency": "月度"
     },
     {
@@ -44,9 +44,9 @@
     },
     {
       "file": "theory/quotes.md",
-      "hash": "36337db939664fa2e97ecb847c3aa051034d4fb11c9a845744aea4e6505feaa0",
+      "hash": "9ff022397d86e9aa",
       "url": "https://raw.githubusercontent.com/chenfengwei9166/terminal-veteran-data/main/theory/quotes.md",
-      "description": "陈丰伟金句弹药库（48条精选）",
+      "description": "陈丰伟金句弹药库",
       "update_frequency": "季度"
     },
     {
@@ -58,9 +58,9 @@
     },
     {
       "file": "theory/speech-frameworks.md",
-      "hash": "1b4fb71c0e104c8d",
+      "hash": "4612fcc4494f6082",
       "url": "https://raw.githubusercontent.com/chenfengwei9166/terminal-veteran-data/main/theory/speech-frameworks.md",
-      "description": "MWC26+WAIC26演讲核心框架",
+      "description": "演讲核心框架",
       "update_frequency": "按需"
     }
   ],
