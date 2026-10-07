@@ -1,6 +1,6 @@
 {
-  "version": "2026.09.12",
-  "last_update": "2026年9月市场数据",
+  "version": "2026.10.07",
+  "last_update": "2026年10月市场数据",
   "description": "终端老兵专家行业数据仓库（月度更新·脱敏处理）",
   "shared_by": [
     "terminal-veteran-expert",
@@ -9,7 +9,7 @@
   "files": [
     {
       "file": "data/market-facts.md",
-      "hash": "b26097775ef4310e",
+      "hash": "4c4643fee12c6c7d",
       "url": "https://raw.githubusercontent.com/chenfengwei9166/terminal-veteran-data/main/data/market-facts.md",
       "description": "数据与事实库精选（公开数据）",
       "update_frequency": "月度"
@@ -44,16 +44,16 @@
     },
     {
       "file": "theory/quotes.md",
-      "hash": "9ff022397d86e9aa",
+      "hash": "3d3a7051276506d7",
       "url": "https://raw.githubusercontent.com/chenfengwei9166/terminal-veteran-data/main/theory/quotes.md",
       "description": "陈丰伟金句弹药库",
       "update_frequency": "季度"
     },
     {
       "file": "theory/judgments-timeline.md",
-      "hash": "3c600e47ec99f0ff",
+      "hash": "e662f37d1887c62a",
       "url": "https://raw.githubusercontent.com/chenfengwei9166/terminal-veteran-data/main/theory/judgments-timeline.md",
-      "description": "行业判断时间线（11条核心判断）",
+      "description": "行业判断时间线",
       "update_frequency": "季度"
     },
     {
@@ -62,6 +62,13 @@
       "url": "https://raw.githubusercontent.com/chenfengwei9166/terminal-veteran-data/main/theory/speech-frameworks.md",
       "description": "演讲核心框架",
       "update_frequency": "按需"
+    },
+    {
+      "file": "theory/theory-framework.md",
+      "hash": "7540b7525fa5b89a",
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/terminal-veteran-data/main/theory/theory-framework.md",
+      "description": "行业数据文件",
+      "update_frequency": "季度"
     }
   ],
   "updated_at": "2026-07-26T12:00:00Z"
